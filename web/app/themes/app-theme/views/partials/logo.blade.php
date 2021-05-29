@@ -4,8 +4,5 @@
  *
  * @package MyApp
  */
-
 ?>
-<h1>
-test
-</h1>
+
